@@ -5,7 +5,7 @@
    * Ativar ambiente
    * Instalar frameworks
    * Gerar arquivo requirements.txt
-   * Desativar ambimente
+   * Desativar ambiente
 
 - 📁 git.md:
    * Dicas úteis para trabalhar com git
